@@ -60,3 +60,43 @@ Now let's organize your project:
 2. **Type this in the filename box:**
 ```
 docs/user-stories.md
+
+# User Stories
+
+## Doctor User Stories
+(User stories will be tracked as GitHub Issues)
+
+## Patient User Stories
+(User stories will be tracked as GitHub Issues)
+
+## Admin User Stories
+(User stories will be tracked as GitHub Issues)
+
+## Reference
+See GitHub Issues tab for detailed user stories with acceptance criteria.
+```
+
+4. **Commit the file**
+
+5. **Repeat to create more structure:**
+
+Create: `src/main/java/.gitkeep`
+```
+# Placeholder for Java source code
+```
+
+Create: `src/test/java/.gitkeep`
+```
+# Placeholder for Java test code
+
+# System Architecture
+
+## Database Schema
+(To be designed)
+
+## API Endpoints
+(To be designed)
+
+## Class Diagrams
+(To be designed)
+
